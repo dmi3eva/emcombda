@@ -30,6 +30,8 @@
 
 ## Как воспроизвести?
 
+В папке `experiments` находятся рабочие ноутбуки и `requirements` к ним. В первых ячейках ноутбуков - заготовки под креды. Других корректировок не требуется. 
+
 ## Использованные материалы
 
 @misc{khrylchenko2026variablelengthsemanticidsrecommender,
@@ -39,6 +41,6 @@
       eprint={2602.16375},
       archivePrefix={arXiv},
       primaryClass={cs.IR},
-      url={https://arxiv.org/abs/2602.16375}, 
+      url={https://arxiv.org/abs/2602.16375}
 }
 
